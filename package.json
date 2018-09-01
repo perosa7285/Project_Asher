@@ -1,0 +1,22 @@
+{
+  "name": "project_asher",
+  "version": "1.0.0",
+  "description": "responsive bootstrap website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perosa7285/Project_Asher.git"
+  },
+  "author": "paul eric erosa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perosa7285/Project_Asher/issues"
+  },
+  "homepage": "https://github.com/perosa7285/Project_Asher#readme",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
